@@ -1,7 +1,0 @@
-Welcome to the project!
-
-This is a test
-
-This is another test
-
-Hello
